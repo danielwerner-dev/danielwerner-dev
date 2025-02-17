@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, node, javascript, typescript**
 
-- 📫 How to reach me **daniel@dgwoconsultoria.dev**
+- 📫 How to reach me **dgwoconsultoria@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
